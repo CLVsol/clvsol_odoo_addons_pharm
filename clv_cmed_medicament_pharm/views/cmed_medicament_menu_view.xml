@@ -3,9 +3,9 @@
     <data>
 
         <menuitem name="CMED Medicaments" id="clv_cmed_medicament.menu_pharmacy_medicament_medicaments_cmed_medicaments"
-            parent="clv_medicament.menu_pharmacy_medicament_medicaments"
+            parent="clv_base.menu_pharmacy_medicament"
             groups="clv_medicament.group_user"
-            sequence="50"
+            sequence="20"
             action="clv_cmed_medicament.clv_cmed_medicament_action"/>
 
         <menuitem name="Lists" id="clv_cmed_medicament.menu_pharmacy_medicament_medicaments_cmed_medicaments_lists"
